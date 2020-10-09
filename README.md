@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧮 My Github Stats  
+🧮   My Github Stats  
 
 [![Jiayi's github stats](https://github-readme-stats.vercel.app/api?username=jiayiliujiayi&show_icons=true)](https://github.com/jiayiliujiayi/github-readme-stats)
 
